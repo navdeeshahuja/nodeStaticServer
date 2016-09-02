@@ -1,0 +1,9 @@
+create server.js
+use a variable for the port
+create package.json (name, version, description)
+create procfile (web: node server.js)
+create git repo and add files
+heroku login
+heroku create <app-name>
+git remote
+git push
