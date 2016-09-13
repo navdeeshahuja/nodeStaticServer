@@ -1,6 +1,6 @@
 ## Synopsis
 
-The project is all about server any kind of static file from the nodeJS server
+The project is all about serving any kind of static file from the nodeJS server
 
 ## Installation
 
